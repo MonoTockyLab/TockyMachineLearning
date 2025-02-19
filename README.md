@@ -78,9 +78,7 @@ Below is a schematic figure providing an overview of the workflows and interacti
 The foundational concept behind the Tocky technology was introduced by the Ono lab in 2018 (Bending et al., 2018). To measure time-dependent processes in individual T cells **in vivo**, Dr. Masahiro Ono envisioned using a substance capable of encoding time information through its known kinetics. Through screening experiments, the mCherry mutant Fluorescent Timer protein, **fast-FT**, emerged as an ideal candidate, especially for its compatibility with flow cytometry.
 
 Originally developed by the Verkhusha group at Einstein (Subach et al., 2009), the Fluorescent Timer protein is unique in its ability to spontaneously change its emission spectrum in known kinetics. Leveraging this feature, the Ono lab has developed the integrated experimental and computationl toolkit, Tocky, which uses Fluorescent Timer reporter transgenic and computational algorithms to analyse Timer fluorescence data. for analyzing T cell activities and differentiation *in vivo* (Bending et al., 2018).
-
 <img src="assets/FluorescentTimer.jpg" align="center" width=40%>
-<br>
 The Fluorescent Timer protein undergoes a spontaneous and irreversible transition in its emission spectrum, shifting from blue fluorescence to red fluorescence after translation.
 
 Our empirical observations have revealed that the half-life of the blue fluorescence (Timer-Blue) is approximately 4 hours, while the half-life of the red fluorescence (Timer-Red) extends to about 120 hours (Bending et al., 2018).
@@ -101,12 +99,7 @@ The primary objective of the Tocky approach is to analyze the time-related infor
 To optimally utilize this temporal information in single-cell analysis, we have introduced a novel concept along with appropriate algorithms. These tools are designed to normalize and transform Timer fluorescence data into two key metrics: *Timer Angle* and *Timer Intensity*.
 
 *Timer Angle* is defined as the angle (in degrees, ranging from 0 to 90) measured from the Timer-Blue axis. *Timer Intensity* represents the distance (or *norm*) from each cell to the origin (where Timer-Blue = Timer-Red = 0).
-
-<br>
-
 <img src="assets/Angleconversion.jpg" align="center" width=30%>
-
-<br>
 
 In this framework, normalized and transformed Timer fluorescence data are termed as *Tocky data*. This data set offers a unique temporal profile that includes both *real-time* transcriptional activities and *cumulative* (historical) activities observed in the days leading up to the experimental analysis of cells.
 
@@ -130,7 +123,6 @@ Masahiro Ono (2024). _TockyPrep: Data Preprocessing Methods for Flow Cytometric 
 
 
 We introduced the concept of **Tocky Locus**, which classifies the Tocky Angle into three distinct loci: **New**, **Persistent**, and **Arrested**, along with two intermediate loci, **New-to-Persistent (NPt)** and **Persistent-to-Arrested (PAt)** (Bending et al., 2018). The concept of TockyLocus is to provide a working framework to associate Tocky data and transcriptional dynamics in a streamlined way.
-
 <img src="assets/FlowTockyModel.jpg" align="center" width=40%>
 
 ### 👉 Read our paper on the TockyLocus methods:
@@ -154,7 +146,6 @@ Utilizing CCA, a cross-analysis of two datasets was conducted to pinpoint the in
 Bending D, Prieto Martín P, Paduraru A, Ducker C, Marzaganov E, Laviron M, Kitano S, Miyachi H, Crompton T, Ono M. (2018) _A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo_. J Cell Biol. Aug 6;217(8):2931-2950. [doi: 10.1083/jcb.201711048.](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes) Epub 2018 Jun 25. PMID: 29941474; PMCID: PMC6080944.
 
 ### Foxp3-Tocky
-
 <img src="assets/Foxp3Tocky.jpg" align="center" width=50%>
 
 Establishing the proof of concept for the Tocky system using Nr4a3-Tocky, we further developed a new Tocky mouse strain for analyzing temporal dynamics of Foxp3 transcription. Foxp3 controls the differentiation and function of regulatory T cells.
