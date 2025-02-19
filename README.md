@@ -79,7 +79,7 @@ The foundational concept behind the Tocky technology was introduced by the Ono l
 
 Originally developed by the Verkhusha group at Einstein (Subach et al., 2009), the Fluorescent Timer protein is unique in its ability to spontaneously change its emission spectrum in known kinetics. Leveraging this feature, the Ono lab has developed the integrated experimental and computationl toolkit, Tocky, which uses Fluorescent Timer reporter transgenic and computational algorithms to analyse Timer fluorescence data. for analyzing T cell activities and differentiation *in vivo* (Bending et al., 2018).
 
-  <img src="assets/FluorescentTimer.jpg" align="center" width="50%">
+  <img src="assets/FluorescentTimer.jpg" align="center" width="40%">
 
 The Fluorescent Timer protein undergoes a spontaneous and irreversible transition in its emission spectrum, shifting from blue fluorescence to red fluorescence after translation.
 
@@ -126,7 +126,8 @@ Masahiro Ono (2024). _TockyPrep: Data Preprocessing Methods for Flow Cytometric 
 
 
 We introduced the concept of **Tocky Locus**, which classifies the Tocky Angle into three distinct loci: **New**, **Persistent**, and **Arrested**, along with two intermediate loci, **New-to-Persistent (NPt)** and **Persistent-to-Arrested (PAt)** (Bending et al., 2018). The concept of TockyLocus is to provide a working framework to associate Tocky data and transcriptional dynamics in a streamlined way.
-<img src="assets/FlowTockyModel.jpg" align="center" width=40%/>
+
+  <img src="assets/FlowTockyModel.jpg" align="center" width="40%">
 
 ### 👉 Read our paper on the TockyLocus methods:
 
@@ -150,8 +151,7 @@ Bending D, Prieto Martín P, Paduraru A, Ducker C, Marzaganov E, Laviron M, Kita
 
 ### Foxp3-Tocky
 
- <img src="assets/Foxp3Tocky.jpg" align="right" width=40%/>
-
+  <img src="assets/Foxp3Tocky.jpg" align="center" width="40%">
 
 Establishing the proof of concept for the Tocky system using Nr4a3-Tocky, we further developed a new Tocky mouse strain for analyzing temporal dynamics of Foxp3 transcription. Foxp3 controls the differentiation and function of regulatory T cells.
 
