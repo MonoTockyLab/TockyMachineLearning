@@ -85,8 +85,7 @@ Our empirical observations have revealed that the half-life of the blue fluoresc
 
 
 Note: **Tocky** is inspired by the Japanese word "toki," meaning "time." It serves as a comprehensive toolkit that merges experimental and computational approaches to analyze the temporal dynamics of cell differentiation and activation in vivo.
-<br>
-<br>
+
 
 ### 👉 Read our landmark paper for the Tocky technology:
 
@@ -99,7 +98,7 @@ The primary objective of the Tocky approach is to analyze the time-related infor
 To optimally utilize this temporal information in single-cell analysis, we have introduced a novel concept along with appropriate algorithms. These tools are designed to normalize and transform Timer fluorescence data into two key metrics: *Timer Angle* and *Timer Intensity*.
 
 *Timer Angle* is defined as the angle (in degrees, ranging from 0 to 90) measured from the Timer-Blue axis. *Timer Intensity* represents the distance (or *norm*) from each cell to the origin (where Timer-Blue = Timer-Red = 0).
-<img src="assets/Angleconversion.jpg" align="center" width=30%>
+  <img src="assets/Angleconversion.jpg" align="center" width=30%>
 
 In this framework, normalized and transformed Timer fluorescence data are termed as *Tocky data*. This data set offers a unique temporal profile that includes both *real-time* transcriptional activities and *cumulative* (historical) activities observed in the days leading up to the experimental analysis of cells.
 
