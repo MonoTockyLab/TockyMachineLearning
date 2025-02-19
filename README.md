@@ -39,8 +39,10 @@ The **TockyConvNet** Approach is achieved by the integrated workflow through the
 
 Below is a schematic figure providing an overview of the workflows and interactions within the **TockyMachineLearning** suite.
 
-<img src="assets/Overview.jpg" align="center" width=100%>
 
+<a href="">
+  <img src="assets/Overview.jpg" align="center" width=100%>
+</a>
 
 
 ### Link to GitHub Pages:
