@@ -123,7 +123,7 @@ Masahiro Ono (2024). _TockyPrep: Data Preprocessing Methods for Flow Cytometric 
 
 
 We introduced the concept of **Tocky Locus**, which classifies the Tocky Angle into three distinct loci: **New**, **Persistent**, and **Arrested**, along with two intermediate loci, **New-to-Persistent (NPt)** and **Persistent-to-Arrested (PAt)** (Bending et al., 2018). The concept of TockyLocus is to provide a working framework to associate Tocky data and transcriptional dynamics in a streamlined way.
-<img src="assets/FlowTockyModel.jpg" align="center" width=40%>
+<img src="assets/FlowTockyModel.jpg" align="center" width=40%/>
 
 ### 👉 Read our paper on the TockyLocus methods:
 
@@ -146,7 +146,7 @@ Utilizing CCA, a cross-analysis of two datasets was conducted to pinpoint the in
 Bending D, Prieto Martín P, Paduraru A, Ducker C, Marzaganov E, Laviron M, Kitano S, Miyachi H, Crompton T, Ono M. (2018) _A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo_. J Cell Biol. Aug 6;217(8):2931-2950. [doi: 10.1083/jcb.201711048.](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes) Epub 2018 Jun 25. PMID: 29941474; PMCID: PMC6080944.
 
 ### Foxp3-Tocky
-<img src="assets/Foxp3Tocky.jpg" align="center" width=50%>
+![](assets/Foxp3Tocky.jpg)
 
 Establishing the proof of concept for the Tocky system using Nr4a3-Tocky, we further developed a new Tocky mouse strain for analyzing temporal dynamics of Foxp3 transcription. Foxp3 controls the differentiation and function of regulatory T cells.
 
@@ -155,14 +155,14 @@ Establishing the proof of concept for the Tocky system using Nr4a3-Tocky, we fur
 Bending D, Paduraru A, Ducker CB, Prieto Martín P, Crompton T, Ono M. A temporally dynamic Foxp3 autoregulatory transcriptional circuit controls the effector Treg programme. EMBO J. 2018 Aug 15;37(16):e99013. [doi: 10.15252/embj.201899013](https://www.embopress.org/doi/full/10.15252/embj.201899013). Epub 2018 Jul 10. 
 
 ## 4. TockyMachineLearning: A Toolkit for Tocky Analysis
-<br>
-<img src="assets/tockymachinelearning.jpg" align="right" width=40%>
+
+<img src="assets/tockymachinelearning.jpg" align="right" width=40%/>
 
 The **TockyMachineLearning** toolkit offers a comprehensive suite of tools designed for the analysis of Tocky data, particularly focusing on T-cell data derived from Foxp3-Tocky mice, using machine learning methods. 
 
 ## The Ono Lab (MonoTockyLab)
 
-<img src="assets/monolab.jpg" alt="MonoTockyLab" align="center" width="40%">
+<img src="assets/monolab.jpg" alt="MonoTockyLab" align="center" width="40%"/>
 
 **The Masahiro Ono Lab (MonoTockyLab)** offers innovative approaches to analyzing omics and flow cytometric data. The lab is particularly well-known for their development of Timer-of-cell-kinetics-and-Activity (**Tocky**) and integrated analysis of immunological data using both experiments and computational analysis.
 
