@@ -78,7 +78,9 @@ Below is a schematic figure providing an overview of the workflows and interacti
 The foundational concept behind the Tocky technology was introduced by the Ono lab in 2018 (Bending et al., 2018). To measure time-dependent processes in individual T cells **in vivo**, Dr. Masahiro Ono envisioned using a substance capable of encoding time information through its known kinetics. Through screening experiments, the mCherry mutant Fluorescent Timer protein, **fast-FT**, emerged as an ideal candidate, especially for its compatibility with flow cytometry.
 
 Originally developed by the Verkhusha group at Einstein (Subach et al., 2009), the Fluorescent Timer protein is unique in its ability to spontaneously change its emission spectrum in known kinetics. Leveraging this feature, the Ono lab has developed the integrated experimental and computationl toolkit, Tocky, which uses Fluorescent Timer reporter transgenic and computational algorithms to analyse Timer fluorescence data. for analyzing T cell activities and differentiation *in vivo* (Bending et al., 2018).
-<img src="assets/FluorescentTimer.jpg" align="center" width=40%>
+
+  <img src="assets/FluorescentTimer.jpg" align="center" width="50%">
+
 The Fluorescent Timer protein undergoes a spontaneous and irreversible transition in its emission spectrum, shifting from blue fluorescence to red fluorescence after translation.
 
 Our empirical observations have revealed that the half-life of the blue fluorescence (Timer-Blue) is approximately 4 hours, while the half-life of the red fluorescence (Timer-Red) extends to about 120 hours (Bending et al., 2018).
