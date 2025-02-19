@@ -146,7 +146,9 @@ Utilizing CCA, a cross-analysis of two datasets was conducted to pinpoint the in
 Bending D, Prieto Martín P, Paduraru A, Ducker C, Marzaganov E, Laviron M, Kitano S, Miyachi H, Crompton T, Ono M. (2018) _A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo_. J Cell Biol. Aug 6;217(8):2931-2950. [doi: 10.1083/jcb.201711048.](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes) Epub 2018 Jun 25. PMID: 29941474; PMCID: PMC6080944.
 
 ### Foxp3-Tocky
-![](assets/Foxp3Tocky.jpg)
+
+ <img src="assets/Foxp3Tocky.jpg" align="right" width=40%/>
+
 
 Establishing the proof of concept for the Tocky system using Nr4a3-Tocky, we further developed a new Tocky mouse strain for analyzing temporal dynamics of Foxp3 transcription. Foxp3 controls the differentiation and function of regulatory T cells.
 
@@ -156,7 +158,7 @@ Bending D, Paduraru A, Ducker CB, Prieto Martín P, Crompton T, Ono M. A tempora
 
 ## 4. TockyMachineLearning: A Toolkit for Tocky Analysis
 
-<img src="assets/tockymachinelearning.jpg" align="right" width=40%/>
+<img src="assets/tockymachinelearning.jpg" alt="TockyMachineLearning" align="right" width=40%>
 
 The **TockyMachineLearning** toolkit offers a comprehensive suite of tools designed for the analysis of Tocky data, particularly focusing on T-cell data derived from Foxp3-Tocky mice, using machine learning methods. 
 
