@@ -161,7 +161,7 @@ Bending D, Paduraru A, Ducker CB, Prieto Martín P, Crompton T, Ono M. A tempora
 
 ## 4. TockyMachineLearning: A Toolkit for Tocky Analysis
 
-<img src="assets/tockymachinelearning.jpg" alt="TockyMachineLearning" align="right" width=40%>
+  <img src="assets/tockymachinelearning.jpg" align="center" width="40%">
 
 The **TockyMachineLearning** toolkit offers a comprehensive suite of tools designed for the analysis of Tocky data, particularly focusing on T-cell data derived from Foxp3-Tocky mice, using machine learning methods. 
 
