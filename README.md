@@ -163,6 +163,7 @@ Bending D, Paduraru A, Ducker CB, Prieto Martín P, Crompton T, Ono M. A tempora
 
   <img src="assets/tockymachinelearning.jpg" align="center" width="40%">
 
+
 The **TockyMachineLearning** toolkit offers a comprehensive suite of tools designed for the analysis of Tocky data, particularly focusing on T-cell data derived from Foxp3-Tocky mice, using machine learning methods. 
 
 ## The Ono Lab (MonoTockyLab)
@@ -218,7 +219,7 @@ Subach F.V., Subach O.M., Gundorov I.S., Morozova K.S., Piatkevich K.D., Cuervo 
 
 **Ono M.**, Tanaka R.J., and Kano M. (2014). _Visualisation of the T cell differentiation programme by Canonical Correspondence Analysis of transcriptomes_. [BMC genomics 15, 1028. 10.1186/1471-2164-15-1028.](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-1028)
 
-Bending D., Martín P.P., Paduraru A., Ducker C., Marzaganov E., Laviron M., Kitano S., Miyachi H., Crompton T., and **Ono M**. (2018). _A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo._ [Journal of Cell Biology 217, 2931-2950.] (https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes)
+Bending D., Martín P.P., Paduraru A., Ducker C., Marzaganov E., Laviron M., Kitano S., Miyachi H., Crompton T., and **Ono M**. (2018). _A timer for analyzing temporally dynamic changes in transcription during differentiation in vivo._ [Journal of Cell Biology 217, 2931-2950.](https://rupress.org/jcb/article/217/8/2931/39442/A-timer-for-analyzing-temporally-dynamic-changes)
 
 Bending D, Paduraru A, Ducker CB, Prieto Martín P, Crompton T, **Ono M**. _A temporally dynamic Foxp3 autoregulatory transcriptional circuit controls the effector Treg programme._ [EMBO J. 2018 Aug 15;37(16):e99013. doi: 10.15252/embj.201899013.](https://www.embopress.org/doi/full/10.15252/embj.201899013)
 
